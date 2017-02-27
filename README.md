@@ -11,3 +11,5 @@ test #6 -> create new branch and commit changes (branch3)
 test #7 -> add more changes to file (branch3).
 test #8 -> changes to master
 
+test #9 -> create new branch (branch3 - local)
+
