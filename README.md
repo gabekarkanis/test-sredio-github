@@ -12,4 +12,4 @@ test #7 -> add more changes to file (branch3).
 test #8 -> changes to master
 
 test #9 -> create new branch (branch3 - local)
-
+test #10 -> edit branch3 (branch3 - local) 12:15 pm
